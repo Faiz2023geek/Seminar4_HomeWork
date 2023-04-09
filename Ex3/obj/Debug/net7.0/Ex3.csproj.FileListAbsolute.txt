@@ -1,0 +1,15 @@
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\bin\Debug\net7.0\Ex3.exe
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\bin\Debug\net7.0\Ex3.deps.json
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\bin\Debug\net7.0\Ex3.runtimeconfig.json
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\bin\Debug\net7.0\Ex3.dll
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\bin\Debug\net7.0\Ex3.pdb
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\Ex3.csproj.AssemblyReference.cache
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\Ex3.AssemblyInfoInputs.cache
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\Ex3.AssemblyInfo.cs
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\Ex3.csproj.CoreCompileInputs.cache
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\Ex3.dll
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\refint\Ex3.dll
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\Ex3.pdb
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\Ex3.genruntimeconfig.cache
+D:\Документы\Desktop\GeekBrains2023\Seminar4_HomeWork\Ex3\obj\Debug\net7.0\ref\Ex3.dll
